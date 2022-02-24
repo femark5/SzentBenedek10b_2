@@ -1,2 +1,2 @@
 print("Hello Világ!")
-nev = input("írd be a neved")
+nev = input("Írd be a neved: ")
